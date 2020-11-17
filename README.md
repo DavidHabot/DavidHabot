@@ -1,16 +1,13 @@
-### Hi there 👋
+# David habot - Backend Developer
+- - -
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidHabot&show_icons=true&theme=vuefy)](https://github.com/DavidHabot/github-readme-stats)
+`#GSM2020` `#Spring` `#Backend` `Highteen`
 
-<!--
-**DavidHabot/DavidHabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduce Your Self---
+> **Backend Developer**
+> 초등학교 1학년때, C를 통해 프로그래밍을 시작해서 현재 고 1(2020년 기준) 까지 꾸준히 개발을 하고있는 개발자 지망생 입니다.
+> Java를 주로 쓰고 Spring FW 를 활용한 Backend 개발을 주 전공분야로 살고 있습니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
+![badge](https://img.shields.io/github/commit-activity/m/DavidHabot/AdenLeague)
