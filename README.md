@@ -10,10 +10,10 @@
 > Java를 주로 쓰고 Spring FW 를 활용한 Backend 개발을 주 전공분야로 살고 있습니다.
 
 List<TO> do = new ArrayList<>();
-[]커밋 한꺼번에 몰아서 하는 습관 고치기
-[]쟈바 프로젝트 수행
-[]Spring 관련 프로젝트 하나 진행해보기
-[]css, js 연습
+[ ]커밋 한꺼번에 몰아서 하는 습관 고치기
+[ ]자바 프로젝트 수행
+[ ]Spring 관련 프로젝트 하나 진행해보기
+[ ]css, js 연습
 
 ![badge](https://img.shields.io/badge/github-GIVEME--STAR-red)
 ![badge](https://img.shields.io/github/commit-activity/m/DavidHabot/AdenLeague)
