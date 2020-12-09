@@ -12,7 +12,6 @@
 > Java를 주로 쓰고 Spring FW 를 활용한 Backend 개발을 주 전공분야로 살고 있습니다.
 
 ## Technologies Used
-- - -
 ||이름|설명|진행|
 |---|---|---|---|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![95%](https://progress-bar.dev/95)|
