@@ -15,7 +15,7 @@
 - - -
 ||이름|설명|진행|
 |---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![95%](https://progress-bar.dev/60)|
+|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![95%](https://progress-bar.dev/95)|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|SpringFW|IoC, DI 를 이해하며 Spring framework를 사용하여 백엔드 개발을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
 
 ## List\<TO> do = new ArrayList<>();
