@@ -15,7 +15,7 @@
 - - -
 ||이름|설명|진행|
 |---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|주로 Spring framework를 사용하며 OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![50%](https://progress-bar.dev/50)|
+|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|주로 Spring framework를 사용하며 OOP패러다임을 이해하고, 능숙하게 사용 할 수 있습니다|![60%](https://progress-bar.dev/60)|
 
 ## List\<TO> do = new ArrayList<>();
 - - -
