@@ -1,7 +1,17 @@
 # 🍦David habot🍦 - Backend Developer
-|---|---|
-|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidHabot&show_icons=true&theme=vuefy)](https://github.com/DavidHabot/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHabot&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)|
-|---|`#GSM2020` `#Spring` `#Backend` `#Highteen`|
+ <table>
+  <tr>
+    <th rowspan = "3">
+      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidHabot&show_icons=true&theme=vuefy)](https://github.com/DavidHabot/github-readme-stats)
+    </th>
+    <th>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHabot&hide=r,jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
+    </th>
+  </tr>
+  <tr>
+    <td>`#GSM2020` `#Spring` `#Backend` `#Highteen`</td>
+  </tr>
+</table>
 
 ## 📗Introduce Your Self
 > **Backend Developer**
