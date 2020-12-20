@@ -16,7 +16,7 @@
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|SpringFW|IoC, DI 를 이해하며 Spring framework를 사용하여 백엔드 개발을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
 
 ## 📙List\<TO> do = new ArrayList<>();
-- [ ] 커밋 한꺼번에 몰아서 하는 습관 고치기
+- [X] 커밋 한꺼번에 몰아서 하는 습관 고치기
 - [x] 자바 프로젝트 수행
 - [ ] Spring 관련 프로젝트 하나 진행해보기
 - [ ] css, js 연습
